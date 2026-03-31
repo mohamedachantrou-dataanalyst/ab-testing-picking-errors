@@ -72,7 +72,7 @@ les biais liés aux différences structurelles entre équipes.
 └── Visuals/
     └── PickingErrorRatePerShift.png
     └── AvgOrderLinesPerShift.png
-    └── DistributionOfTenureAmongshifts.png
+    └── DistributionOfTenureAmongShifts.png
 ```
 
 ---
