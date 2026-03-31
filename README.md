@@ -12,6 +12,8 @@ Une entreprise de logistique traite ~300 commandes par jour sur deux shifts.
 Après analyse de 3 mois de logs opérationnels, un écart significatif de taux 
 d'erreur de picking est observé entre le shift matin et le shift après-midi.
 
+![description](Visuals/PickingErrorRatePerShift.png)
+
 Après élimination des explications alternatives (complexité des commandes, 
 expérience des préparateurs), la cause probable identifiée est la fatigue 
 accumulée sur le shift après-midi — qui enchaîne 4h30 de travail continu 
