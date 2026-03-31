@@ -19,9 +19,7 @@ expérience des préparateurs), la cause probable identifiée est la fatigue
 accumulée sur le shift après-midi — qui enchaîne 4h30 de travail continu 
 sans pause structurée.
 
-| Image 1 | Image 2 |
-|--------|--------|
-| ![description](Visuals/AvgOrderLinesPerShift.png | ![description](Visuals/DistributionOfTenureAmongShifts.png) |
+| ![description](Visuals/AvgOrderLinesPerShift.png) | ![description](Visuals/DistributionOfTenureAmongShifts.png) |
 
 ---
 
