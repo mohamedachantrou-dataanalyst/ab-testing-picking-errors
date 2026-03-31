@@ -20,6 +20,7 @@ accumulée sur le shift après-midi — qui enchaîne 4h30 de travail continu
 sans pause structurée.
 
 | ![description](Visuals/AvgOrderLinesPerShift.png) | ![description](Visuals/DistributionOfTenureAmongShifts.png) |
+|---|---|
 
 ---
 
