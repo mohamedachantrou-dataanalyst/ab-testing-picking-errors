@@ -67,9 +67,9 @@ les biais liés aux différences structurelles entre équipes.
 ```
 ├── README.md
 ├── ab-testing-project.ipynb       ← Analyse complète avec code
-├── data/
+├── Data/
 │   └── picking_errors.csv
-└── visuals/
+└── Visuals/
     └── PickingErrorRatePerShift.png
     └── AvgOrderLinesPerShift.png
     └── DistributionOfTenureAmongshifts.png
