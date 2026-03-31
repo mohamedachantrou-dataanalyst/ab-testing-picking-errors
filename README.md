@@ -66,11 +66,13 @@ les biais liés aux différences structurelles entre équipes.
 ## Structure du repo
 ```
 ├── README.md
-├── analysis.ipynb       ← Analyse complète avec code
+├── ab-testing-project.ipynb       ← Analyse complète avec code
 ├── data/
 │   └── picking_errors.csv
 └── visuals/
-    └── plots.png
+    └── PickingErrorRatePerShift.png
+    └── AvgOrderLinesPerShift.png
+    └── DistributionOfTenureAmongshifts.png
 ```
 
 ---
