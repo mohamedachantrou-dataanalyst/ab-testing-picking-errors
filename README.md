@@ -68,7 +68,7 @@ les biais liés aux différences structurelles entre équipes.
 
 ---
 
-## Structure du repo
+## Structure du Repository
 ```
 ├── README.md
 ├── ab-testing-project.ipynb       ← Analyse complète avec code
